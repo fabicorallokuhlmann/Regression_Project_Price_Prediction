@@ -1,6 +1,6 @@
 # Sales Prediction (Regression Project)
 
-Projeto criado com o objetivo de desenvolver **um modelo de predição de preço de barcos baseado nas características do mesmo**, como: ano, tamanho, tipo de barco, tempo de uso (novo ou usado), material usado, etc. Novamente, segue-se a aplicação do passo a passo inicial para compreensão do desafio proposto <br/>
+Projeto criado com o objetivo de desenvolver **um modelo de previsão de preço de barcos baseado nas características do mesmo**, como: ano, tamanho, tipo de barco, tempo de uso (novo ou usado), material usado, etc. Novamente, segue-se a aplicação do passo a passo inicial para compreensão do desafio proposto <br/>
 
 Para tanto, os seguintes passos listados abaixo foram adotados:
 <br/>
