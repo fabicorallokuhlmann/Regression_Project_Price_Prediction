@@ -71,12 +71,13 @@ XVI) resultado: melhor modelo para esse projeto é o **Random Forest, com 85,30%
 </table>
 
 XVII) execução de previsões com a base com novos dados<br/>
-XVIII) a partir das características dos barcos fornecidas na nova base, observa-se que os **preços previstos para os três é de R$ 5.831,00, R$ 8.702,62 e R$ 18.362,35**, como pode ser visto pelas tabelas abaixo:
+XVIII) a partir das características dos barcos fornecidas na nova base, observa-se que os **preços previstos para os três é de     
+   &euro; 5.831,00, &euro; 8.702,62 e &euro; 18.362,35**, como pode ser visto pelas tabelas abaixo:
 
 <br/>
 
 <table border="1">
-    <caption><b>Predição de Preços em R$</b></caption>
+    <caption><b>Predição de Preços em &euro;</b></caption>
     <tr>
         <th>Barco 1</th>
         <th>Barco 2</th>
